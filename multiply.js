@@ -1,3 +1,3 @@
 export default function multiply(a,b) {
-  return 4;
+  return a * b;
 }
