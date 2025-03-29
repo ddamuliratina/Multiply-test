@@ -23,3 +23,18 @@ describe("Multiplication function", () => {
     assert.strictEqual(multiply(23, 45), 1035);
   });
 });
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+Written by Chritina Ddamulira & Kambere Gilbert Silver
+ */
